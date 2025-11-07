@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/userupload/25447024/file/original-48774d600567b9a2370b432732029ecf.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Hey! I'm Ishan, a software developer who loves building things that work well and look clean. I'm all about writing code that's easy to read and maintain because future-me (and anyone else) will appreciate it.
 
@@ -43,42 +43,7 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 
 <br/>
 
-## 🚀 Projects
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🚨 Real-time Disaster Alert System
-Predicts disasters and coordinates relief efforts
-
-**Stack:** React • Node.js • MongoDB
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 OCR Text Analyzer
-Extracts and analyzes text from PDFs & images
-
-**Stack:** Python • Tesseract
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Smart Pricing ML Model
-Predicts optimal pricing for products
-
-**Stack:** Python • scikit-learn
-
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 📊 GitHub Stats
 

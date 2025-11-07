@@ -3,7 +3,7 @@
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Narayan Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ishan Patil</h1>
 <h3 align="center">Software Engineer | Curious Mind | Lifelong Learner</h3>
 
 ---

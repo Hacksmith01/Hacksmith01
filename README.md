@@ -12,6 +12,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 Hey! I'm Ishan, a software developer who loves building things that work well and look clean. I'm all about writing code that's easy to read and maintain because future-me (and anyone else) will appreciate it.
 
 - 🔥 I enjoy building **reliable and efficient software**
@@ -19,6 +21,8 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 - 💡 Interested in **backend systems and scalable architectures**
 - 🎯 Always aiming for **simple, clean, and maintainable code**
 - 📫 Reach me at: **your.email@gmail.com**
+
+<br clear="right"/>
 
 <br/>
 

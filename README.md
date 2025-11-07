@@ -20,7 +20,7 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 - 🌱 Currently learning **Python, Java, and Rust**
 - 💡 Interested in **backend systems and scalable architectures**
 - 🎯 Always aiming for **simple, clean, and maintainable code**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **ishanpatil2005@gmail.com**
 
 <br clear="right"/>
 

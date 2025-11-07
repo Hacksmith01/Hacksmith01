@@ -7,7 +7,7 @@
 - 🔥 Passionate about building **clean & scalable software**
 - 🌱 Currently learning **Python • Java • Rust**
 - 🎯 Goal: Write code that’s **simple, efficient, and maintainable**
-- 📫 Email: **narayanmehta9596@gmail.com**
+- 📫 Email: 
 
 ---
 

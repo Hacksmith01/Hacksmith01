@@ -49,7 +49,6 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan&layout=compact&theme=radical&border_radius=15&hide_border=true"/>
 </div>
 
 <br/>

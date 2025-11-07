@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Coding" src="banner.png">
+<img align="center" alt="Coding" hieght ="250" src="banner.png">
 </br>
 # Hi there, I'm Ishan 👋
 

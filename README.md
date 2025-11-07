@@ -63,7 +63,7 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
     <img src="email_click.png" width="40px" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="[https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/ishan-patil-32bb49242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtW4hoyWqQC2s9HBCBN9DTA%3D%3D)">
     <img src="linkedin_click.png" width="40px" />
   </a>
 </p>

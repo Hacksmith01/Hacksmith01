@@ -49,8 +49,7 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
-</div>
+ 
 
 <br/>
 

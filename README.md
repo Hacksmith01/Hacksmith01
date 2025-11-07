@@ -2,6 +2,7 @@
 <img align="center" alt="Coding" hieght ="250" src="banner.png">
 </br>
 Hi there, I'm Ishan 👋
+</br>
 Software Developer • Backend & Systems Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+software;Learning+Python+%E2%80%A2+Java+%E2%80%A2+Rust;Passionate+about+backend+systems" alt="Typing SVG" />
 </div>

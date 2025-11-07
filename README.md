@@ -1,26 +1,34 @@
+<h2 align="center">🌟 Hey! I'm Narayan Sharma 🌟</h2>
+<p align="center">A curious developer exploring new technologies 😊</p>
 
 ---
 
-### 🧠 Current Stack
-`Python` • `Rust` • `Java` • `C` • `JavaScript`
-
-### 🔥 Interests
-- System-level programming
-- Reliable backend systems
-- Security & efficiency
+### ✨ About Me
+- 🌱 Learning: **Python, Java, Rust**
+- 🛠 I love solving problems & building useful things
+- 💬 Ask me about code, learning, mindset
+- 📫 Email: **narayanmehta9596@gmail.com**
 
 ---
 
-### 🌐 Social
-[LinkedIn](#) • [Instagram](#) • [Twitter](#)
-
----
-
-### 📊 Stats (Dark Mode)
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sample&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sample&layout=compact&theme=tokyonight" />
+### 🧰 Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,rust,c,javascript" />
 </p>
 
 ---
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+
+### 🚀 Projects Showcase
+| Project | What it does |
+|--------|--------------|
+| 🌍 Disaster Alert System | Real-time alerts and relief coordination |
+| 📝 OCR Analyzer | Extract & analyze text from images/PDFs |
+| 📦 Price Prediction Model | Smart ML-based pricing tool |
+
+---
+
+### 💫 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sample&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sample&layout=compact&theme=dracula" />
+</p>

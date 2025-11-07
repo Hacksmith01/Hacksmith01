@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="ghimg1.jpeg">
 
 Hey! I'm Ishan, a software developer who loves building things that work well and look clean. I'm all about writing code that's easy to read and maintain because future-me (and anyone else) will appreciate it.
 

@@ -4,7 +4,7 @@
 
 ### Software Developer • Backend & Systems Enthusiast
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+software;Learning+Python+%E2%80%A2+Java+%E2%80%A2+Rust;Passionate+about+backend+systems" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/userupload/25447024/file/original-48774d600567b9a2370b432732029ecf.gif)">
 
 Hey! I'm Ishan, a software developer who loves building things that work well and look clean. I'm all about writing code that's easy to read and maintain because future-me (and anyone else) will appreciate it.
 

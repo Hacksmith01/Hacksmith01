@@ -1,5 +1,6 @@
 <div align="center">
-
+<img align="center" alt="Coding" src="banner.png">
+</br>
 # Hi there, I'm Ishan 👋
 
 ### Software Developer • Backend & Systems Enthusiast

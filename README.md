@@ -50,13 +50,11 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
 
 <div align="center">
  
-
+</div>
 <br/>
 
 ## 💬 Let's Connect
-
-<div align="center">
-
+<div>
 <p align="center">
   <a href="mailto:ishanpatil2005@gmail.com">
     <img src="email_click.png" width="40px" />
@@ -66,8 +64,6 @@ Hey! I'm Ishan, a software developer who loves building things that work well an
     <img src="linkedin_click.png" width="40px" />
   </a>
 </p>
-
-
 
 </div>
 

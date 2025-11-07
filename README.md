@@ -1,13 +1,11 @@
-<h2 align="center">🌟 Hey! I'm Narayan Sharma 🌟</h2>
+<h2 align="center">🌟 Hey! I'm Ishan PA 🌟</h2>
 <p align="center">A curious developer exploring new technologies 😊</p>
 
----
-
-### ✨ About Me
+---atil
 - 🌱 Learning: **Python, Java, Rust**
 - 🛠 I love solving problems & building useful things
 - 💬 Ask me about code, learning, mindset
-- 📫 Email: **narayanmehta9596@gmail.com**
+- 📫 Email: **cdsvs**
 
 ---
 

@@ -11,8 +11,6 @@ Software Developer • Backend & Systems Enthusiast
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="450" hieght="370" src="ghimg1.gif">
-
 Hey! I'm Ishan, a software developer who loves building things that work well and look clean. I'm all about writing code that's easy to read and maintain because future-me (and anyone else) will appreciate it.
 
 - 🔥 I enjoy building **reliable and efficient software**

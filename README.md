@@ -1,12 +1,13 @@
+md id="g8l2mx"
 <div align="center">
 
-# Ishan Patil
+# Ishan Patil ✨
 
-Backend Engineering • Systems • Security
+Backend Engineer • Systems • Cybersecurity
 
 Building scalable backend systems, intelligent applications, and clean software architectures.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+security+and+distributed+systems;Writing+clean+and+maintainable+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Exploring+security+and+distributed+systems;Writing+clean+and+maintainable+code" alt="Typing SVG" />
 
 </div>
 
@@ -70,32 +71,24 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Hacksmith01&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hacksmith01&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacksmith01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
 
-<a href="mailto:ishanpatil2005@gmail.com">
-  <img src="email_click.png" width="40px" />
+<a href="mailto:ishanpatil2005@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/ishan-patil-32bb49242">
-  <img src="linkedin_click.png" width="40px" />
+<a href="https://www.linkedin.com/in/ishan-patil-32bb49242" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/ishn0_0" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" />
 </a>
 
 </div>
@@ -107,3 +100,4 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 *"Readable code scales better than clever code."*
 
 </div>
+

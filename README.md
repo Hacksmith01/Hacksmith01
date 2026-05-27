@@ -92,12 +92,7 @@ Projects involving intelligent automation, ML models, and AI-powered workflows.
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/ishn0_0" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" />
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"
-         height="35" alt="X (Twitter)" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=x" height="45" alt="X (Twitter)" />
 </a>
 
 </div>

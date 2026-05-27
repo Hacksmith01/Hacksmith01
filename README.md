@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Ishan Patil
@@ -7,7 +6,7 @@ Backend Engineer • Systems • Cybersecurity
 
 Building scalable backend systems, intelligent applications, and clean software architectures.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Exploring+security+and+distributed+systems;Writing+clean+and+maintainable+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Exploring+security+and+distributed+systems;Developing+AI-powered+applications;Writing+clean+and+maintainable+code" alt="Typing SVG" />
 
 </div>
 
@@ -15,12 +14,13 @@ Building scalable backend systems, intelligent applications, and clean software 
 
 ## About Me
 
-I'm a Computer Science student focused on backend engineering, scalable systems, and software architecture.
+I'm a Computer Science student focused on backend engineering, scalable systems, cybersecurity, and AI-driven applications.
 
 Currently working on:
 - ML-based fraud detection systems
 - Full-stack applications with scalable backends
 - Security-focused and infrastructure-oriented projects
+- AI-powered intelligent systems and automation tools
 
 Interested in:
 - Backend Engineering
@@ -28,6 +28,7 @@ Interested in:
 - Cybersecurity
 - Cloud Infrastructure
 - System Design
+- Machine Learning & AI
 
 Tech I work with:
 - Java
@@ -37,6 +38,8 @@ Tech I work with:
 - MongoDB
 - React
 - C
+- Machine Learning
+- AI/LLM Applications
 
 Reach me at: **ishanpatil2005@gmail.com**
 
@@ -53,6 +56,8 @@ Reach me at: **ishanpatil2005@gmail.com**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -69,6 +74,9 @@ Scalable backend services focused on authentication, APIs, and system reliabilit
 ### Security & Systems Projects
 Projects exploring cybersecurity, Linux environments, and infrastructure concepts.
 
+### AI Applications
+Projects involving intelligent automation, ML models, and AI-powered workflows.
+
 ---
 
 ## Connect
@@ -84,11 +92,7 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/ishn0_0" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
-    <img alt="X" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40">
-  </picture>
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" height="35" />
 </a>
 
 </div>
@@ -100,4 +104,3 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 *"Readable code scales better than clever code."*
 
 </div>
-```

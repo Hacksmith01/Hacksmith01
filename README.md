@@ -91,10 +91,6 @@ Projects involving intelligent automation, ML models, and AI-powered workflows.
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/ishn0_0" target="_blank">
-  <img src="https://skillicons.dev/icons?i=x" height="45" alt="X (Twitter)" />
-</a>
-
 </div>
 
 ---

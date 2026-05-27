@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# Ishan Patil ✨
+# Ishan Patil
 
 Backend Engineer • Systems • Cybersecurity
 
@@ -76,18 +77,18 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 
 <a href="mailto:ishanpatil2005@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ishan-patil-32bb49242" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/ishn0_0" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg">
+    <img alt="X" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40">
+  </picture>
 </a>
 
 </div>
@@ -99,4 +100,4 @@ Projects exploring cybersecurity, Linux environments, and infrastructure concept
 *"Readable code scales better than clever code."*
 
 </div>
-
+```

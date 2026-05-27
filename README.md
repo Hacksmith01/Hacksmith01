@@ -84,15 +84,20 @@ Projects involving intelligent automation, ML models, and AI-powered workflows.
 <div align="center">
 
 <a href="mailto:ishanpatil2005@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ishan-patil-32bb49242" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/ishn0_0" target="_blank">
-  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" height="35" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"
+         height="35" alt="X (Twitter)" />
+  </picture>
 </a>
 
 </div>

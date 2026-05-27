@@ -1,7 +1,5 @@
 <div align="center">
 
-<img align="center" alt="Banner" src="banner.png"/>
-
 # Ishan Patil
 
 Backend Engineering • Systems • Security
